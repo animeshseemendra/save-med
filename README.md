@@ -20,7 +20,7 @@ There's also an option for Donation of medicines without login in case the donor
 
 # Features of App
 * The application keeps a check on distribution of medicines so that the pharmacist doesn't sell the medicine above 50% of the original cost
-  of the donated medicine. This check will be incorporated with the help of QR Code verification on both ends; firstly between donor and 
+  of the donated medicine. This check will be incorporated with the help of unique passcode verification on both ends; firstly between donor and 
   pharmacist and secondly between receiver and pharmacist.
 
 * The application has separate dashboards for Government,Donor/Receiver and Pharmacy.
@@ -56,6 +56,6 @@ There's also an option for Donation of medicines without login in case the donor
   * In case of redistribution of medicine, the manufacture has done no investment , therefore he's entitled to zero profit but royalty.
 # Why Reward Coins are necessary?
   * Reward coins are a kind of promotion strategy, a reason for which a donor will donate medicines.
-  * The collaboration with partner pharmaceuticals stores and diagnostic centers will enable the donor to redeem his coins by purchaing medicines or for medical tests.
+  * The collaboration with partner pharmaceutical stores and diagnostic centers will enable the donor to redeem his coins by purchaing medicines or for medical tests.
   * The stores will collaborate with us in order to increase the traffic on their stores. Afterall who doesn't wants customers?
   * Reward Coins will therefore bind the donor with the app and he would not uninstall the app.
